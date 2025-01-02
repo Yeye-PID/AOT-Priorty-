@@ -1,0 +1,46 @@
+          [ AOT Priorty - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 1.0
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+            
+            
+ Disclemoer shell :
+- Shell script ini saya bikin untuk mengurangi beban pada Runtime dengan memanfaatkan AOT (Ahead-of-Time) pada PM < pacakge manager > 
+
+Dengan cara :
+- Mengganti Mode AOT dengan mode yang lebih cepat tanpa memakan beban CPU, GPU And RAM secara signifikan
+- Membersikan cache Compilelasi yang rusak pada Runtime
+- Mempercepat pembuatan bycode mesin tanpa verifikasi tambahan
+
+Efek yang didapat ketika memakai script :
+- Mempercepat loading aplikasi
+- Mengurangi lag dan stutter pada game And multitasking
+- Menstabilekan FPS 
+- Mengurangi beban CPU And RAM selama aplikasi di execute
+- Mempercepat pembuatan kode runtime 
+And lain-lainya.....
+
+Recomened :
+- Gaming
+- Multiasking
+
+Note :
+- shell script ini tidak meyebabkan Aplikasi mana pun Crash dan lag dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun dill..
+
+Penanggung Jawab 100% By :
+- @Yeye_nat | Telegram
+- Yeye-PID   | Github
+
+install :
+Ekstrak dulu zip ' ATB.zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+rm -rf /data/local/tmp/* && cp /sdcard/shell-Yeye/AOT-priorty /data/local/tmp && chmod +x /data/local/tmp/AOT-priorty && /data/local/tmp/AOT-priorty
+
+uninstall : RIBOOT YUOR PHONE 
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat

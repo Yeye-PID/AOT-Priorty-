@@ -1,6 +1,6 @@
 ![Yeye 1](img/an.jpeg)
 
- # AOT Priorty 
+ # AOT Priorty 🍃
  adalah shell script yang saya bikin 
  untuk mengurangi beban pada Runtime dengan memanfaatkan 
  AOT (Ahead-of-Time) pada PM < pacakge manager > 

@@ -21,6 +21,10 @@ And lain-lainya.....
 Orang itu harus sudah memahami modifikasi 
 perngkat dan paham akan besick nonroot dill.
 
+## PEMBUAT ❓️
+- Telegram : @Yeye_nat
+- Support  : https://t.me/shdow95
+
  ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
  Module mohon sertakain creadit kalo tidak di sertakan
